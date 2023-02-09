@@ -4,7 +4,7 @@ import random
 import re
 
 COLORS = ['R', 'G', 'B', 'Y', 'W', 'O']
-max_tries = 2
+max_tries = 10
 
 def main():
     
